@@ -43,7 +43,7 @@ def monopoly_with_fourth_tier
         four_pieces_owned: 200
       },
       :names => newer_hash = {
-        :reading_railroad => empty_hash = {mortgage_value: '$100'},
+        :reading_railroad => empty_hash = {"mortgage_value" => '$100'},
         :pennsylvania_railroad => empty_hash = {},
         :b_and_o_railroad => empty_hash = {},
         :shortline_railroad => empty_hash = {}
