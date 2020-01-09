@@ -1,6 +1,6 @@
 def base_hash
-	person = {:properties => :railroads}
-	person
+	monopoly = {:properties => :railroads}
+	monopoly
 end
 
 def monopoly_with_second_tier
