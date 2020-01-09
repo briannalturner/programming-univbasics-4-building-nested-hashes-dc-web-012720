@@ -1,6 +1,6 @@
 def base_hash
 	person = {first_name: 'Bri'}
-	first_name
+	person
 end
 
 def monopoly_with_second_tier
