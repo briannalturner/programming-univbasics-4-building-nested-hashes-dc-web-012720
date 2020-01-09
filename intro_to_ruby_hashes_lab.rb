@@ -1,5 +1,5 @@
 def base_hash
-	person = {first_name: 'Bri'}
+	person = {first_name: :railroads}
 	person
 end
 
