@@ -21,7 +21,7 @@ def monopoly_with_third_tier
         key2: 'red',
         key3: 'purple',
         key4: 'yellow'
-      }
+      },
       :names => 'blue'
 	   }
   	}
