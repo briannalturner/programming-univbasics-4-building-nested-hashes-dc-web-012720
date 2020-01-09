@@ -16,7 +16,12 @@ end
 def monopoly_with_third_tier
   	monopoly = {:railroads => bri = {
   	  :pieces => 4,
-      :rent_in_dollars => 'blue'
+      :rent_in_dollars => new_hash = {
+        key1: 'blue',
+        key2: 'red',
+        key3: 'purple',
+        key4: 'yellow'
+      }
 	   }
   	}
 	monopoly
