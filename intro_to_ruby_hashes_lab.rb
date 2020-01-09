@@ -26,7 +26,7 @@ def monopoly_with_third_tier
         :reading_railroad => empty_hash = {},
         :pennsylvania_railroad => empty_hash = {},
         :b_and_o_railroad => empty_hash = {},
-        key4: 'yellow'
+        :shortline_railroad => empty_hash = {}
       }
 	   }
   	}
