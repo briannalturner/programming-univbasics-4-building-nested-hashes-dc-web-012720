@@ -22,7 +22,12 @@ def monopoly_with_third_tier
         key3: 'purple',
         key4: 'yellow'
       },
-      :names => 'blue'
+      :names => newer_hash = {
+        key1: 'blue',
+        key2: 'red',
+        key3: 'purple',
+        key4: 'yellow'
+      }
 	   }
   	}
 	monopoly
