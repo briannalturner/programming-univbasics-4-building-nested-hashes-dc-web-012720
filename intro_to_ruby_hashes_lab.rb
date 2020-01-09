@@ -19,7 +19,7 @@ def monopoly_with_third_tier
       :rent_in_dollars => new_hash = {
         one_piece_owned: 25,
         two_pieces_owned: 50,
-        key3: 'purple',
+        one_piece_owned: 25,
         ones_piece_owned: 25
       },
       :names => newer_hash = {
