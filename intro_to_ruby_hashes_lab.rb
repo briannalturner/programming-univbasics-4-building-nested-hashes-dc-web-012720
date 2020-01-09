@@ -24,7 +24,7 @@ def monopoly_with_third_tier
       },
       :names => newer_hash = {
         :reading_railroad => empty_hash = {},
-        key2: 'red',
+        :pennsylvania_railroad => empty_hash = {},
         key3: 'purple',
         key4: 'yellow'
       }
