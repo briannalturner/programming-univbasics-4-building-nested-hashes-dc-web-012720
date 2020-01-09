@@ -23,7 +23,7 @@ def monopoly_with_third_tier
         four_pieces_owned: 200
       },
       :names => newer_hash = {
-        :reading_railroad => empty_hash = {}
+        :reading_railroad => empty_hash = {},
         key2: 'red',
         key3: 'purple',
         key4: 'yellow'
